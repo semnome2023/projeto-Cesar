@@ -1,0 +1,4 @@
+No arquivo index.html, insira as imagens dos respectivos animais usando
+a tag <img src="caminho-relativo"> abaixo de cada h2 correspondente.
+
+Deste modo você irá praticar o acesso de arquivos usando caminho relativo.
